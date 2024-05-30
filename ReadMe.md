@@ -1,29 +1,29 @@
-### Initiation à Godot
-[Documentation de Godot](https://docs.godotengine.org/fr/4.x/getting_started/introduction/introduction_to_godot.html)
+### Advanced-Godot-mechanics
+[Godot documentation](https://docs.godotengine.org/fr/4.x/getting_started/introduction/introduction_to_godot.html)
 
-#### ex00 - Installer Godot
-Téléchargez et installez Godot sur votre machine. Assurez-vous que l'installation est réussie en lançant Godot.
+#### ex00 - Install Godot
+Download and install Godot on your machine. Ensure successful installation by launching Godot.
 
-#### ex01 - Créer un Nouveau Projet et une Scène
-Lancez Godot et créez un nouveau projet. Ajoutez une nouvelle scène 2D en cliquant sur "Create New Scene".
+#### ex01 - Create a new project and scene
+Launch Godot and create a new project. Add a new 2D scene by clicking on “Create New Scene”.
 
-#### ex02 - Ajouter et Configurer un Sprite de map
-Cherchez un sprite de map et ajoutez-le à votre scène 2D.
+#### ex02 - Add and configure a map sprite
+Find a map sprite and add it to your 2D scene.
 
-#### ex03 - Ajouter un sprite de joueur sur la map
-Cherchez un sprite de personnage et assurez-vous qu'il est placé sur la map. Préparez-le pour qu'il puisse être déplacé avec des touches de direction dans les prochaines étapes.
+#### ex03 - Add a player sprite to the map
+Find a character sprite and make sure it's placed on the map. Prepare it so that it can be moved with arrow keys in the next steps.
 
-#### ex04 - Créez votre Premier Script!
-Créez un script pour permettre à votre personnage de se déplacer lorsqu'on appuie sur les touches "zqsd".
+#### ex04 - Create your first script!
+Create a script to enable your character to move when the “zqsd” keys are pressed.
 
-#### ex05 - Ajouter Différentes Animations
-Ajoutez 4 sprites de personnage avec des animations différentes pour les déplacements vers la droite, la gauche, le haut et le bas.
+#### ex05 - Add different animations
+Add 4 character sprites with different animations for moving right, left, up and down.
 
-#### ex06 - Collecter des Gemmes
-Placez des gemmes sur la map et ajoutez une touche pour que le personnage puisse les ramasser lorsqu'il est proche. Affichez l'inventaire dans le terminal.
+#### ex06 - Collect Gems
+Place gems on the map and add a button for the character to pick them up when nearby. Display the inventory in the terminal.
 
-#### ex07 - Faire une Animation de Fin
-Lorsque votre personnage a collecté 3 gemmes, ajoutez une animation de fin avec des images pour indiquer que le jeu est terminé.
+#### ex07 - Make an End Animation
+When your character has collected 3 gems, add an ending animation with images to indicate that the game is over.
 
 #### Bonus
-Essayez d'ajouter plus de fonctionnalités!
+Try adding more features!
