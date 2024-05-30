@@ -1,4 +1,4 @@
-### Initiation à Godot2
+### Initiation à Godot
 [Documentation de Godot](https://docs.godotengine.org/fr/4.x/getting_started/introduction/introduction_to_godot.html)
 
 #### ex00 - Installer Godot
